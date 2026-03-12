@@ -1,6 +1,6 @@
-**Predicción de la pérdida de clientes y estrategia de retención**
+Predicción de la pérdida de clientes y estrategia de retención
 
-**Resumen del proyecto**
+Resumen del proyecto
 
 
 
